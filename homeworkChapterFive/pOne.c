@@ -1,3 +1,8 @@
+// Write a program to calculate the following
+// Area of Square
+// Area of Circle
+// Area of Rectangle
+
 #include<stdio.h>
 #include<math.h>
 
