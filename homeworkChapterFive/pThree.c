@@ -1,3 +1,5 @@
+//Factorial of n.
+
 #include<stdio.h> // preprocessor directive
 
 int nFactorial(int a); // function prototype
