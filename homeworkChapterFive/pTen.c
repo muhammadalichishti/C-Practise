@@ -20,7 +20,7 @@ int cPowF(int n, int p) {
         return 1;
     }
 
-    int powN = cPowF(n, p - 1);
+    int powN = cPowF(n, p - 1); 
     int pow = powN * n;
     return pow;
 }
